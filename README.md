@@ -1,8 +1,8 @@
 # Lake Environmental Risk Analyzer
 
-**Author:** Tyler Roberts
-**Developed:** March 2026
-**Created:** Project developed as part of CS231 (Data Structures & Algorithms) at Colby College
+**Author:** Tyler Roberts <br>
+**Developed:** March 2026 <br>
+**Context** Project developed as part of CS231 (Data Structures & Algorithms) at Colby College
 
 ## Overview
 
