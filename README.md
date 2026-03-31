@@ -2,7 +2,7 @@
 
 **Author:** Tyler Roberts <br>
 **Developed:** March 2026 <br>
-**Context** Project developed as part of CS231 (Data Structures & Algorithms) at Colby College
+**Context:** Project developed as part of CS231 (Data Structures & Algorithms) at Colby College
 
 ## Overview
 
