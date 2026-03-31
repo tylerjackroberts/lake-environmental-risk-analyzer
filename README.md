@@ -109,6 +109,9 @@ The program measures execution time for retrieving the top n lakes using both a 
 
 Results show that the PriorityQueue is significantly more efficient, as it avoids repeatedly looping through the entire list to find and remove the highest risk lake. 
 
+## Performance Comparison Table
+![Performance Comparison](performance.png)
+
 ---
 
 # Command Line Usage
